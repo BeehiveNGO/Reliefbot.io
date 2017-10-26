@@ -1,3 +1,3 @@
 # Alexa App
 
-Build fiels for Beehive's Alexa app
+Build files for Beehive's experimental Alexa application: ReliefBot
